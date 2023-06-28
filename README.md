@@ -187,7 +187,6 @@ In Home view, all the views button will be available. User will land on specific
 ![Executive view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/executive.png)
 
 
-you can find the full report file here : [Report]()
 
 
 ## Project Outcome
