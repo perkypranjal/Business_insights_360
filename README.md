@@ -142,6 +142,10 @@ Fact table : It will have the data about the transactions
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
 - Following Good practices of data modeling is must.
+- In this project, we have followed Snowfall data modeling method.
+
+<img src="https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/data%20model%20Business%20insights.png" class="center">
+
 
 ### Dashboard designing
 
@@ -157,39 +161,31 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
 - Support
 
-## Overall Report
+## Home view
 
-![Overall Report.gif]()
-
-## Info Page
-
-![Info.gif]()
+![Home view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/home.png)
 
 ## Finance View
 
-![Finace.gif]()
+![Finance view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/finance.png)
 ## Sales View
 
-![Sales.gif]()
+![Sales view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/sales.png)
 
 ## Marketing View
 
-![Marketing.gif]()
+![Marketing view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/marketing.png)
 
 ## Supply chain View
 
-![Supply chain.gif]()
+![Supply chain view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/supply%20chain.png)
 
 ## Executive View
 
-![Executive.gif]()
+![Executive view](https://github.com/perkypranjal/Business_insights_360/blob/main/Resources/executive.png)
 
-## Products
-
-![Products]()
 
 you can find the full report file here : [Report]()
 
